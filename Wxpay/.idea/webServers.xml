@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3e65b02-e0e6-473a-b74d-4c7e33f661ea" name="张自康" url="http://47.95.237.209">
+        <fileTransfer host="47.95.237.209" port="22" accessType="SFTP" password="dff0dfc2dfcbdfc4dfcddfd0dfc3dfc1dfcbdfc4dfcddf9adf98df98df92df84" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bd775f14-cdfd-4e8b-b984-9547967ad76e" name="民族文化" url="http://47.94.250.210">
+        <fileTransfer host="47.94.250.210" port="22" accessType="SFTP" password="dff8dfcbdfc3dfc4dfc8dfc5dfdddf9ddf92df9cdf99df9cdf93df9b" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
